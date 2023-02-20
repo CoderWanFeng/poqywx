@@ -8,7 +8,7 @@
 '''
 import unittest
 
-from poai.api.chatgpt import *
+from poqywx.api.chatgpt import *
 
 
 class TestTools(unittest.TestCase):

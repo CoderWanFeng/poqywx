@@ -1,4 +1,4 @@
-# pip install poai  -i https://pypi.python.org/simple -U
+# pip install poqywx  -i https://pypi.python.org/simple -U
 
 # 1、pip freeze > allpackages.txt
 # 2、pip uninstall -r allpackages.txt -y

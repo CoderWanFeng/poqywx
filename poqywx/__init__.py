@@ -6,8 +6,8 @@
 @Date    ：2023/2/8 23:39
 @Description     ：
 '''
-from poai.api import chatgpt
-from poai.lib.Const import SPLIT_LINE
+from poqywx.api import chatgpt
+from poqywx.lib.Const import SPLIT_LINE
 
 print(SPLIT_LINE)
 print('【poai库】，功能持续更新中')
